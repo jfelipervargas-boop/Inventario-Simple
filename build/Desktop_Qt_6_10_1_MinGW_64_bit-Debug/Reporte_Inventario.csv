@@ -1,0 +1,11 @@
+ID,Nombre,Tipo,Cantidad,Ubicacion,Fecha de Compra
+14,Multimetro,Herramienta,30,Almacen A,07/12/25
+16,Cautin,Herramienta,50,Almacen B,16/12/25
+19,Fuente DC,Herramienta,10,Almacen C,14/10/25
+21,Fuente AC,Herramienta,15,Alamacen C,16/10/25
+24,Destornillador Estrella,Herramienta,30,Almacen B,12/06/25
+25,Destornillador Pala,Herramienta,30,Almacen B,12/06/25
+28,Osiloscopio,Herramienta,5,Almacen A,05/12/25
+29,Generador de Señales,Herramienta,5,Almacen A,1/12/25
+32,Basys 3,Herramienta,50,Almacen D,11/12/25
+33,Nexus,Herramienta,10,Almacen D,10/12/25
